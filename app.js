@@ -1,7 +1,9 @@
 let allVideos = [];
+let filteredVideos = [];
 let currentIndex = 0;
 const batchSize = 10;
 const container = document.getElementById('playlist');
+const filterBar = document.getElementById('filter-bar');
 
 // Get query parameter from URL
 function getQueryParam(name) {
@@ -12,7 +14,7 @@ const showEmbed = getQueryParam('embed') === 'true'; // default is false
 const playlistFile = getQueryParam('file');
 
 function renderNextBatch() {
-  const nextVideos = allVideos.slice(currentIndex, currentIndex + batchSize);
+  const nextVideos = filteredVideos.slice(currentIndex, currentIndex + batchSize);
   nextVideos.forEach(video => {
     const div = document.createElement('div');
     div.className = 'video';
@@ -73,10 +75,17 @@ function renderNextBatch() {
   currentIndex += batchSize;
 }
 
+function resetAndRender() {
+  container.innerHTML = '';
+  currentIndex = 0;
+  renderNextBatch();
+  fillViewportIfNeeded();
+}
+
 function fillViewportIfNeeded() {
   // Load more batches if not enough content to fill viewport
   setTimeout(() => {
-    while (currentIndex < allVideos.length && document.body.offsetHeight < window.innerHeight) {
+    while (currentIndex < filteredVideos.length && document.body.offsetHeight < window.innerHeight) {
       renderNextBatch();
     }
   }, 0);
@@ -84,7 +93,7 @@ function fillViewportIfNeeded() {
 
 function handleScroll() {
   if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - 100) {
-    if (currentIndex < allVideos.length) {
+    if (currentIndex < filteredVideos.length) {
       renderNextBatch();
     }
   }
@@ -94,7 +103,15 @@ fetch(playlistFile)
   .then(response => response.json())
   .then(data => {
     allVideos = data.entries;
+    filteredVideos = allVideos;
     renderNextBatch();
     fillViewportIfNeeded();
     window.addEventListener('scroll', handleScroll);
+    if (filterBar) {
+      filterBar.addEventListener('input', function() {
+        const query = filterBar.value.trim().toLowerCase();
+        filteredVideos = allVideos.filter(v => v.title && v.title.toLowerCase().includes(query));
+        resetAndRender();
+      });
+    }
   });

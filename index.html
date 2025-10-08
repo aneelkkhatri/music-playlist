@@ -157,8 +157,9 @@
               const iframe = document.createElement('iframe');
               // iframe.width = 160;
               iframe.height = 300;
-              iframe.src = `https://www.youtube.com/embed/${video.id}`;
+              iframe.src = `https://www.youtube.com/embed/${video.id}?autoplay=1`;
               iframe.frameBorder = '0';
+              iframe.allow = 'accelerometer; autoplay; encrypted-media; picture-in-picture; web-share';
               iframe.allowFullscreen = true;
               iframe.style.display = 'block';
               iframe.style.marginTop = '1em';

@@ -1,7 +1,7 @@
 let allVideos = [];
 let filteredVideos = [];
 let currentIndex = 0;
-const batchSize = 10;
+const batchSize = 1;
 const container = document.getElementById('playlist');
 const filterBar = document.getElementById('filter-bar');
 
@@ -51,37 +51,74 @@ function renderNextBatch() {
       row.appendChild(img);
       row.appendChild(info);
       div.appendChild(row);
-      // Add click event to thumbnail to embed video below row
       img.addEventListener('click', function() {
-        const existing = div.querySelector('iframe');
+        const existing = div.querySelector('.yt-player');
         if (existing) {
           existing.remove();
         } else {
-          console.log(singlePlayer)
           if (singlePlayer) {
-            // Remove any other playing iframe
+            // Remove any other playing player
             const allVideoDivs = Array.from(document.querySelectorAll('.video'));
-            allVideoDivs.forEach((vDiv, idx) => {
+            allVideoDivs.forEach((vDiv) => {
               if (vDiv !== div) {
-                const ifr = vDiv.querySelector('iframe');
-                if (ifr) ifr.remove();
+                const p = vDiv.querySelector('.yt-player');
+                if (p) p.remove();
               }
             });
           }
-
-          const iframe = document.createElement('iframe');
-          iframe.height = 300;
-          iframe.src = `https://www.youtube.com/embed/${video.id}?autoplay=1`;
-          iframe.frameBorder = '0';
-          iframe.allowFullscreen = true;
-          iframe.allow = 'autoplay';
-          iframe.style.display = 'block';
-          iframe.style.marginTop = '1em';
-          iframe.style.borderRadius = '14px';
-          iframe.style.boxShadow = '0 2px 12px #00bfae44, 0 1px 4px #0006';
-          div.appendChild(iframe);
+          // Create a div for YouTube player
+          const playerDiv = document.createElement('div');
+          playerDiv.className = 'yt-player';
+          playerDiv.id = `yt-player-${video.id}-${Math.random().toString(36).slice(2,8)}`;
+          playerDiv.style.marginTop = '1em';
+          div.appendChild(playerDiv);
+          // Use YouTube Iframe API to create player
+          createYouTubePlayer(playerDiv.id, video.id, div);
         }
       });
+      // Helper to find next video index in filteredVideos
+      function getNextVideoIndex(currentId) {
+        const idx = filteredVideos.findIndex(v => v.id === currentId);
+        return idx >= 0 && idx < filteredVideos.length - 1 ? idx + 1 : null;
+      }
+
+      // Create YouTube player and handle end event
+      function createYouTubePlayer(playerId, videoId, containerDiv) {
+        // Wait for YT API to be ready
+        if (typeof YT === 'undefined' || typeof YT.Player === 'undefined') {
+          setTimeout(() => createYouTubePlayer(playerId, videoId, containerDiv), 200);
+          return;
+        }
+        const player = new YT.Player(playerId, {
+          height: '300',
+          width: '100%',
+          videoId: videoId,
+          playerVars: { autoplay: 1 },
+          events: {
+            'onStateChange': function(event) {
+              if (event.data === YT.PlayerState.ENDED) {
+                // Auto-play next video
+                const nextIdx = getNextVideoIndex(videoId);
+                if (nextIdx !== null) {
+                  // Remove current player
+                  const currentPlayerDiv = containerDiv.querySelector('.yt-player');
+                  if (currentPlayerDiv) currentPlayerDiv.remove();
+                  // Find next video div and simulate click
+                  const nextVideoId = filteredVideos[nextIdx].id;
+                  const nextDiv = Array.from(document.querySelectorAll('.video')).find(d => {
+                    const img = d.querySelector('img');
+                    return img && img.src.includes(nextVideoId);
+                  });
+                  if (nextDiv) {
+                    const nextImg = nextDiv.querySelector('img');
+                    if (nextImg) nextImg.click();
+                  }
+                }
+              }
+            }
+          }
+        });
+      }
     }
     container.appendChild(div);
   });

@@ -150,18 +150,22 @@
           div.appendChild(row);
           // Add click event to thumbnail to embed video below row
           img.addEventListener('click', function() {
-            if (div.querySelector('iframe')) return;
-            const iframe = document.createElement('iframe');
-            // iframe.width = 160;
-            iframe.height = 300;
-            iframe.src = `https://www.youtube.com/embed/${video.id}`;
-            iframe.frameBorder = '0';
-            iframe.allowFullscreen = true;
-            iframe.style.display = 'block';
-            iframe.style.marginTop = '1em';
-            iframe.style.borderRadius = '14px';
-            iframe.style.boxShadow = '0 2px 12px #00bfae44, 0 1px 4px #0006';
-            div.appendChild(iframe);
+            const existing = div.querySelector('iframe');
+            if (existing) {
+              existing.remove();
+            } else {
+              const iframe = document.createElement('iframe');
+              // iframe.width = 160;
+              iframe.height = 300;
+              iframe.src = `https://www.youtube.com/embed/${video.id}`;
+              iframe.frameBorder = '0';
+              iframe.allowFullscreen = true;
+              iframe.style.display = 'block';
+              iframe.style.marginTop = '1em';
+              iframe.style.borderRadius = '14px';
+              iframe.style.boxShadow = '0 2px 12px #00bfae44, 0 1px 4px #0006';
+              div.appendChild(iframe);
+            }
           });
         }
         container.appendChild(div);

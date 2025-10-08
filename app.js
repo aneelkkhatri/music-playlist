@@ -1,7 +1,7 @@
 let allVideos = [];
 let filteredVideos = [];
 let currentIndex = 0;
-const batchSize = 1;
+const batchSize = 10;
 const container = document.getElementById('playlist');
 const filterBar = document.getElementById('filter-bar');
 
@@ -103,15 +103,26 @@ function renderNextBatch() {
                   // Remove current player
                   const currentPlayerDiv = containerDiv.querySelector('.yt-player');
                   if (currentPlayerDiv) currentPlayerDiv.remove();
-                  // Find next video div and simulate click
                   const nextVideoId = filteredVideos[nextIdx].id;
-                  const nextDiv = Array.from(document.querySelectorAll('.video')).find(d => {
+                  let nextDiv = Array.from(document.querySelectorAll('.video')).find(d => {
                     const img = d.querySelector('img');
                     return img && img.src.includes(nextVideoId);
                   });
+                  // If nextDiv is not found, load more videos until it is
+                  while (!nextDiv && currentIndex < filteredVideos.length) {
+                    renderNextBatch();
+                    nextDiv = Array.from(document.querySelectorAll('.video')).find(d => {
+                      const img = d.querySelector('img');
+                      return img && img.src.includes(nextVideoId);
+                    });
+                  }
                   if (nextDiv) {
                     const nextImg = nextDiv.querySelector('img');
-                    if (nextImg) nextImg.click();
+                    if (nextImg) {
+                      // Scroll to next video
+                      nextDiv.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                      setTimeout(() => nextImg.click(), 300);
+                    }
                   }
                 }
               }

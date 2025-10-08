@@ -12,6 +12,7 @@ function getQueryParam(name) {
 }
 const showEmbed = getQueryParam('embed') === 'true'; // default is false
 const playlistFile = getQueryParam('file');
+const singlePlayer = getQueryParam('singlePlayer') === 'true'; // default is false
 
 function renderNextBatch() {
   const nextVideos = filteredVideos.slice(currentIndex, currentIndex + batchSize);
@@ -56,6 +57,18 @@ function renderNextBatch() {
         if (existing) {
           existing.remove();
         } else {
+          console.log(singlePlayer)
+          if (singlePlayer) {
+            // Remove any other playing iframe
+            const allVideoDivs = Array.from(document.querySelectorAll('.video'));
+            allVideoDivs.forEach((vDiv, idx) => {
+              if (vDiv !== div) {
+                const ifr = vDiv.querySelector('iframe');
+                if (ifr) ifr.remove();
+              }
+            });
+          }
+
           const iframe = document.createElement('iframe');
           iframe.height = 300;
           iframe.src = `https://www.youtube.com/embed/${video.id}?autoplay=1`;

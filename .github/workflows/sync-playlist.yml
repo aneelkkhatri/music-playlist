@@ -1,0 +1,62 @@
+name: Sync YouTube Playlist
+
+on:
+  schedule:
+    - cron: '30 8 * * *' # Runs every day at 8:30 am UTC
+  workflow_dispatch:
+
+jobs:
+  sync-playlist:
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Fetch all branches
+        run: git fetch origin site:site
+
+      - name: Checkout site branch
+        run: git checkout site
+
+      - name: Merge main into site
+        run: |
+          git merge origin/main --no-edit --allow-unrelated-histories || true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install yt-dlp
+        run: pip install yt-dlp
+
+      - name: Sync playlists from YouTube
+        env:
+          PLAYLIST_IDS: |
+            PLsb3AAnDkrPAmWqcL3UPbEKB1_RQzl6Fg
+            PLsb3AAnDkrPCSfigMKaIAVnb6wzl56l8c
+            PLsb3AAnDkrPCiprEwVAFEqVHD64O2LZbn
+            PLsb3AAnDkrPCeuzhZ9efSdvzf1YyiPJUg
+            PLsb3AAnDkrPAAYi68r3L8lWlnIZfVsRtV
+            PLsb3AAnDkrPCWxKRAxXkyxMPQbxJQse0z
+            PLsb3AAnDkrPBr9H40ItRJ8otKDVTNEYf9
+            PLsb3AAnDkrPC2AyfbNidb0PULvgvFn9l4
+        run: |
+          ls -alh
+          echo "Syncing playlists:"
+          while read -r id; do
+            [ -z "$id" ] && continue
+            python sync_playlist.py "$id"
+          done <<< "$PLAYLIST_IDS"
+
+      - name: Commit and push changes
+        run: |
+          ls -alh
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add "playlists"
+          git commit -m "Update playlists from YouTube" || echo 'No changes to commit'
+          git push origin site

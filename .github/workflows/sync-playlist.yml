@@ -2,7 +2,7 @@ name: Sync YouTube Playlist
 
 on:
   schedule:
-    - cron: '30 8 * * *' # Runs every day at 8:30 am UTC
+    - cron: '30 4 * * *' # Runs every day at 4:30 am UTC
   workflow_dispatch:
 
 jobs:

@@ -30,14 +30,21 @@ function renderPlaylists(playlists) {
   playlists.forEach(pl => {
     const item = document.createElement('div');
     item.className = 'playlist-item';
-    // Thumbnail
-    const thumb = document.createElement('img');
-    thumb.onclick = () => {
-      window.location.href = `index.html?file=playlists/${pl.id}.json`;
-    };
-    thumb.className = 'playlist-thumb';
-    thumb.src = pl.thumbnails && pl.thumbnails[0] ? pl.thumbnails[0].url : '';
-    thumb.alt = pl.title;
+      // Thumbnails: show all in 2x2 grid
+      const thumbsWrapper = document.createElement('div');
+      thumbsWrapper.onclick = () => {
+          window.location.href = `index.html?file=playlists/${pl.id}.json`;
+      };
+      thumbsWrapper.className = 'thumbs-grid';
+      if (pl.thumbnails && pl.thumbnails.length) {
+        pl.thumbnails.slice(0, 4).forEach(t => {
+          const thumb = document.createElement('img');
+          thumb.className = 'playlist-thumb';
+          thumb.src = t.url;
+          thumb.alt = pl.title;
+          thumbsWrapper.appendChild(thumb);
+        });
+      }
     // Info
     const info = document.createElement('div');
     info.className = 'playlist-info';
@@ -45,7 +52,7 @@ function renderPlaylists(playlists) {
       <a class="channel-url" href="https://www.youtube.com/channel/${pl.channel_id}" target="_blank"><span class="video-channel">${pl.channel}</span></a>
       <a class="playlist-url" href="https://www.youtube.com/playlist?list=${pl.id}" target="_blank">${pl.id}</a>
       `;
-    item.appendChild(thumb);
+      item.appendChild(thumbsWrapper);
     item.appendChild(info);
     listContainer.appendChild(item);
   });

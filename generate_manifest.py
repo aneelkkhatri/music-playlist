@@ -13,7 +13,7 @@ for fname in os.listdir(playlist_dir):
                 manifest.append({
                     'id': data.get('id', fname[:-5]),
                     'title': data.get('title', fname[:-5]),
-                    'thumbnails': data.get('thumbnails', []),
+                    'thumbnails': [entry.get('thumbnails', [])[0] if entry.get('thumbnails') else None for entry in data.get('entries', [])[:4]],
                     'channel': data.get('channel', ''),
                     'channel_id': data.get('channel_id', '')
                 })

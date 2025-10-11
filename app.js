@@ -31,13 +31,9 @@ function renderNextBatch() {
     } else {
       div.innerHTML = '';
       const row = document.createElement('div');
-      row.style.display = 'flex';
-      row.style.flexDirection = 'row';
-      row.style.alignItems = 'center';
-      row.style.gap = '1.5em';
       // Image
       const img = document.createElement('img');
-      img.className = 'thumb-non-square';
+      img.className = 'thumb-square';
       img.src = video.thumbnails[0].url;
       img.alt = video.title;
       // Info

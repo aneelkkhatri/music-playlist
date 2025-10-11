@@ -17,7 +17,8 @@ for fname in os.listdir(playlist_dir):
                     'channel': data.get('channel', ''),
                     'channel_id': data.get('channel_id', '')
                 })
-            except Exception:
+            except Exception as e:
+                print(f"Failed to load {fname}, skipping. Error: {e}")
                 continue
 with open('playlists.json', 'w') as f:
     json.dump(manifest, f, indent=2)

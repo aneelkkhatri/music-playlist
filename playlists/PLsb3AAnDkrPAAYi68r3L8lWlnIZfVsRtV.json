@@ -7,37 +7,37 @@
   "tags": [],
   "thumbnails": [
     {
-      "url": "https://i.ytimg.com/vi/uxwaPLO3xVI/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBYI_273k5WFUb1n_hH5AyDNmFIbw",
+      "url": "https://i.ytimg.com/vi/ZXtsN7G28Xw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDqUkuaugBpy2loFUuNMLRW7AiWSw",
       "height": 94,
       "width": 168,
       "id": "0",
       "resolution": "168x94"
     },
     {
-      "url": "https://i.ytimg.com/vi/uxwaPLO3xVI/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAtZwsD2zD8Cr1itgNvaTHa7nkfRw",
+      "url": "https://i.ytimg.com/vi/ZXtsN7G28Xw/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCxgCVlixkpdlGVhMrFdcicRn0j3w",
       "height": 110,
       "width": 196,
       "id": "1",
       "resolution": "196x110"
     },
     {
-      "url": "https://i.ytimg.com/vi/uxwaPLO3xVI/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLClCNYxUN3Lt7mOaMPvHO5E8L2Kyw",
+      "url": "https://i.ytimg.com/vi/ZXtsN7G28Xw/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCYC-UuEloBwNIjwjXAymTDa13hbw",
       "height": 138,
       "width": 246,
       "id": "2",
       "resolution": "246x138"
     },
     {
-      "url": "https://i.ytimg.com/vi/uxwaPLO3xVI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBP7cTeGx79cek5cv_RJKIzZYUZXg",
+      "url": "https://i.ytimg.com/vi/ZXtsN7G28Xw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAFTI6XAn84VselXpHgSz0WJtvqQQ",
       "height": 188,
       "width": 336,
       "id": "3",
       "resolution": "336x188"
     }
   ],
-  "modified_date": "20251008",
+  "modified_date": "20251011",
   "view_count": 1749,
-  "playlist_count": 1627,
+  "playlist_count": 1638,
   "channel": "MusicOpen",
   "channel_id": "UClgZsSW98NXJreV2uWGzl-w",
   "uploader_id": "@MusicOpen",
@@ -46,6 +46,314 @@
   "uploader_url": "https://www.youtube.com/@MusicOpen",
   "_type": "playlist",
   "entries": [
+    {
+      "id": "ZXtsN7G28Xw",
+      "title": "Faasle",
+      "channel": "Kaavish",
+      "channel_id": "UCqYdSvqFYHZp_9NiMI8fxfg",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/ZXtsN7G28Xw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDRoUCgGRWOCByYhoz_mtc5KrXiRQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZXtsN7G28Xw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCmgXK10h74nUYtgfzEyuBIf6RTiA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZXtsN7G28Xw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiIK4CYZYsPitmJvVzHQnGH83SnQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZXtsN7G28Xw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAVFXbdr2RBztd6LkBp5NmVc6GHA",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "SSlfGCT-2Q0",
+      "title": "Dil Tod Ke",
+      "channel": "B Praak",
+      "channel_id": "UCXjFirfrQa_02dBnHshjbzA",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/SSlfGCT-2Q0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCUV3l24of-VsBvDxT7AVbQRHjBJA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SSlfGCT-2Q0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCbM-ZjUbOdkXBM2lpvwQB7h66CaA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SSlfGCT-2Q0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDJH-IDOy6SFXNcqC4TS0p6i1Inw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SSlfGCT-2Q0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGt8f686_o56gz9jhniGVfxtOfFw",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "FJ4Xtb5GIp8",
+      "title": "Rimjhim Sawaan",
+      "channel": "Ami Mishra",
+      "channel_id": "UCP4Mu12uLF6wi_A7ZBtcS4Q",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/FJ4Xtb5GIp8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBipmlva7Ki8QgB5jUMtJ26ot_h1g",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/FJ4Xtb5GIp8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCW2pBdN9_9nqHbUOaPmbbpoW3OFg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/FJ4Xtb5GIp8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuD2EQ8p5TPjKJcOLeZjNFdFebnQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/FJ4Xtb5GIp8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUP8dK-bWcWweQT97mCi6IeDWWzA",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "5u0AYh9F2Ew",
+      "title": "Chand Kagaz Ka (From \"Param Sundari\")",
+      "channel": "Sachin Jigar",
+      "channel_id": "UCZGDCfJB2cNhSrFLM1N5sSg",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/5u0AYh9F2Ew/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCoI81cJyq5ryTwTktd8oqoEKICqw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5u0AYh9F2Ew/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLClH3JQgiyn9HpiuNyzhk0AddGNRQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5u0AYh9F2Ew/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOpTU1cMpQvZgxonbYPeKUjAtHVQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5u0AYh9F2Ew/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5xDmpv97SUqqwtw57q6RInNd_5w",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "etmU32Odi-8",
+      "title": "Sunn Mere\u00a0Yaar\u00a0Ve (From \"Param Sundari\")",
+      "channel": "Sachin Jigar",
+      "channel_id": "UCZGDCfJB2cNhSrFLM1N5sSg",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/etmU32Odi-8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCHsS_AjuazD37D-C0kH2bPYbH2UQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/etmU32Odi-8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAGU-pO6B4wRpLV1ofsNi0JIHJWcQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/etmU32Odi-8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCPOiQYSD8GV3dxZeujMvCl0g32A",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/etmU32Odi-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKTvH-u_hlUYAXpBIH6OrOpRz2w",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "zgpE4NU8Ifc",
+      "title": "Bheegi Saree (From \"Param Sundari\")",
+      "channel": "Sachin Jigar",
+      "channel_id": "UCZGDCfJB2cNhSrFLM1N5sSg",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/zgpE4NU8Ifc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAHBn4jDSjN3puz3Nthz8-sY79xHQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zgpE4NU8Ifc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLADe-IzMCGw2c2WPG37Em1J1wGxSg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zgpE4NU8Ifc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVTBLvB8RlSO-WfXAFSSZWtwCVcA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zgpE4NU8Ifc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjTrYgTvTyuXKnLG3-0o0e3BAoZw",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "gqscYYl3wKc",
+      "title": "Pardesiya (From \"Param Sundari\")",
+      "channel": "Sachin Jigar",
+      "channel_id": "UCZGDCfJB2cNhSrFLM1N5sSg",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/gqscYYl3wKc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDYABQGARBUYrwvHHMq9hoFl8xy9w",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/gqscYYl3wKc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB1LUzxLYLjxAnNAp3rXzgGtjs9mA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/gqscYYl3wKc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgaZtSigeYkM9ffQp7MHBl8TcC2A",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/gqscYYl3wKc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBi170z8djC413USm2arHvxL6CRtw",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "svDDGdg3hN8",
+      "title": "Pippi Pippi Dum Dum Dum",
+      "channel": "Devi Sri Prasad",
+      "channel_id": "UCrnDk_4-MwHR7HeUS-5BK8A",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/svDDGdg3hN8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDXZVAPb9bGuRtNc5kFsOAqzZUofw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/svDDGdg3hN8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAKtFVVJ0Iud4XxpE7B-tgs_XiRqw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/svDDGdg3hN8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8MOeT2AkVdrBIWDYKjEl1rQ42xg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/svDDGdg3hN8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUvGh59M-cJ6Tt2t9UqZD8z4ocxw",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "mOB1S1qXcPQ",
+      "title": "Heer",
+      "channel": "AFUSIC",
+      "channel_id": "UCVIabJe0HKaZ3GkJB3e1g0Q",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/mOB1S1qXcPQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD73o4mw9YoNCohXiRHl-iufcUigQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/mOB1S1qXcPQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDpy-8Y6OyVRYdCRxmj0PiUI4nRRg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/mOB1S1qXcPQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqoJTCdKa8njkCNqf1zdoOhXe23A",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/mOB1S1qXcPQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYrRUDrZ8ksN0alqVWxHpnW9HaHw",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "4MxIwLn3oCM",
+      "title": "Teri Yaadein",
+      "channel": "Abd El Fattah Grini",
+      "channel_id": "UCgo_lYastPlD8FWxU04SwnA",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/4MxIwLn3oCM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCjcQQd6HoqizhG2TV8m4HZ3cZaMQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/4MxIwLn3oCM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA-oRfKbvXZPC7MG0PIxWJA0ZUpmA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/4MxIwLn3oCM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUS_QoxBFHv1xENCILFiSwl24uwQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/4MxIwLn3oCM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxJhEzpGk-SuBCzL9eeS_WNmxarw",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "p8KmNiOXIKM",
+      "title": "Vhalam Aavo Ne",
+      "channel": "Release - Topic",
+      "channel_id": "UCYJ3uOtMWUjBs2t0cmZwTug",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/p8KmNiOXIKM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCTqbERkAZOt37i0jPgFyv65LEP_Q",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/p8KmNiOXIKM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCWycSk8V3Xul5m3ZtnKulzA3FWew",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/p8KmNiOXIKM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCypbCukBUEW-z49eiAJrXPHG1oGA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/p8KmNiOXIKM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_tt5xoW2LnDlDEqOzwd1AB6FOAA",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
     {
       "id": "uxwaPLO3xVI",
       "title": "Haye Sohniye",

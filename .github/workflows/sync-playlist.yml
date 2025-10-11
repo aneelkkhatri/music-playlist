@@ -52,6 +52,10 @@ jobs:
             python sync_playlist.py "$id"
           done <<< "$PLAYLIST_IDS"
 
+      - name: Generate manifest
+        run: |
+          python generate_manifest.py
+
       - name: Commit and push changes
         run: |
           ls -alh

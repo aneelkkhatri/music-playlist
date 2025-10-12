@@ -7,37 +7,37 @@
   "tags": [],
   "thumbnails": [
     {
-      "url": "https://i.ytimg.com/vi/6mDb7rg0dwg/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAZvvo0E__bkdfX4fvUXOvpj5P7lA",
+      "url": "https://i.ytimg.com/vi/-yA-yYIMrj8/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLANYxYXRiO_SHVLPPIQeJWQ_PNqqg",
       "height": 94,
       "width": 168,
       "id": "0",
       "resolution": "168x94"
     },
     {
-      "url": "https://i.ytimg.com/vi/6mDb7rg0dwg/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLA0xZ18Ivoo3YtEIhzAtDNRXiK-5w",
+      "url": "https://i.ytimg.com/vi/-yA-yYIMrj8/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAqjZbpRoUfH1tYyb8vsLs_Z_HYKA",
       "height": 110,
       "width": 196,
       "id": "1",
       "resolution": "196x110"
     },
     {
-      "url": "https://i.ytimg.com/vi/6mDb7rg0dwg/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDi6SdybcLCqoNe7f91mkV15E-ntw",
+      "url": "https://i.ytimg.com/vi/-yA-yYIMrj8/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDAJAbdnpa4qWxbXljWTA-Lk2HA2Q",
       "height": 138,
       "width": 246,
       "id": "2",
       "resolution": "246x138"
     },
     {
-      "url": "https://i.ytimg.com/vi/6mDb7rg0dwg/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAc5nIrGp9wlUdJ2MU3mHtg2sBMAg",
+      "url": "https://i.ytimg.com/vi/-yA-yYIMrj8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCr7bOO0YKfEJ0V2Mzhy7MYGths3w",
       "height": 188,
       "width": 336,
       "id": "3",
       "resolution": "336x188"
     }
   ],
-  "modified_date": "20250927",
+  "modified_date": "20251012",
   "view_count": 220,
-  "playlist_count": 160,
+  "playlist_count": 161,
   "channel": "MusicOpen",
   "channel_id": "UClgZsSW98NXJreV2uWGzl-w",
   "uploader_id": "@MusicOpen",
@@ -46,6 +46,34 @@
   "uploader_url": "https://www.youtube.com/@MusicOpen",
   "_type": "playlist",
   "entries": [
+    {
+      "id": "-yA-yYIMrj8",
+      "title": "Aap Is Dhoop Mein - Gustaakh Ishq | Vijay Varma & Fatima S | Vishal Bhardwaj, Arijit Singh, Gulzar",
+      "channel": "Zee Music Company",
+      "channel_id": "UCFFbwnve3yF62-tVXkTyHqg",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/-yA-yYIMrj8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDcnDajpjwTImeRzb60ZZP6VrsGDg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-yA-yYIMrj8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA0oGJCs_ehqZogQJm4mIhkbFw_Pw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-yA-yYIMrj8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDU-LArXHGOACqOGfJeauL7NENsSw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-yA-yYIMrj8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDP8qZ5SHIQyX-3n7nhgRqFh-5SGQ",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
     {
       "id": "6mDb7rg0dwg",
       "title": "\"CHAI PE BULAYEIN\"  AMBER K MEHRA | ARUN KUSHWAH | DRISHTI KHARBANDA | NEW HINDI SONG 2025",

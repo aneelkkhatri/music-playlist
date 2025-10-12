@@ -60,6 +60,11 @@
     "title": "current",
     "thumbnails": [
       {
+        "url": "https://i.ytimg.com/vi/-yA-yYIMrj8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDcnDajpjwTImeRzb60ZZP6VrsGDg",
+        "height": 94,
+        "width": 168
+      },
+      {
         "url": "https://i.ytimg.com/vi/6mDb7rg0dwg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBbt7RLXyqWBZl1Oa9MutMC07DjGQ",
         "height": 94,
         "width": 168
@@ -71,11 +76,6 @@
       },
       {
         "url": "https://i.ytimg.com/vi/9R_Uj2bh31k/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEwgZSgkMA8=&rs=AOn4CLD9OVjBd0DcSTQJsUU4mfH5Ei3Nkw",
-        "height": 94,
-        "width": 168
-      },
-      {
-        "url": "https://i.ytimg.com/vi/54Im0Cn7p9U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDchb-5S0oVxVEp4S2AafqrTv9cHA",
         "height": 94,
         "width": 168
       }

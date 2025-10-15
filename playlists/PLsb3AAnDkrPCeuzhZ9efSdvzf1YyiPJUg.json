@@ -7,37 +7,37 @@
   "tags": [],
   "thumbnails": [
     {
-      "url": "https://i.ytimg.com/vi/zFmhNn_ETmo/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDdKoV42l6ErcaAYIDiA72hFEa_bw",
+      "url": "https://i.ytimg.com/vi/gMZLQ5rcFn4/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD4vwonFbt_-vzCnGj_Wg6FuhVIaA",
       "height": 94,
       "width": 168,
       "id": "0",
       "resolution": "168x94"
     },
     {
-      "url": "https://i.ytimg.com/vi/zFmhNn_ETmo/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDTN-Nwq407-l0FLsKAaLSl8QWLaA",
+      "url": "https://i.ytimg.com/vi/gMZLQ5rcFn4/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCTHy47ASEinVk4diS8h7va2Olvbg",
       "height": 110,
       "width": 196,
       "id": "1",
       "resolution": "196x110"
     },
     {
-      "url": "https://i.ytimg.com/vi/zFmhNn_ETmo/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBTIwIaUs8CTs1dT5bWru1v-rTwlQ",
+      "url": "https://i.ytimg.com/vi/gMZLQ5rcFn4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDOfwdwTz25MW6UgV_RPZijiOh4EA",
       "height": 138,
       "width": 246,
       "id": "2",
       "resolution": "246x138"
     },
     {
-      "url": "https://i.ytimg.com/vi/zFmhNn_ETmo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDxYd9MjbBxpAgo9YeKdrChvSFDVA",
+      "url": "https://i.ytimg.com/vi/gMZLQ5rcFn4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAktrLdJbBbgzcRABzueNPhivORgA",
       "height": 188,
       "width": 336,
       "id": "3",
       "resolution": "336x188"
     }
   ],
-  "modified_date": "20251014",
-  "view_count": 721,
-  "playlist_count": 585,
+  "modified_date": "20251015",
+  "view_count": 723,
+  "playlist_count": 583,
   "channel": "MusicOpen",
   "channel_id": "UClgZsSW98NXJreV2uWGzl-w",
   "uploader_id": "@MusicOpen",
@@ -46,6 +46,34 @@
   "uploader_url": "https://www.youtube.com/@MusicOpen",
   "_type": "playlist",
   "entries": [
+    {
+      "id": "gMZLQ5rcFn4",
+      "title": "Heartbreak Kid",
+      "channel": "Talha Anjum",
+      "channel_id": "UCaHBioELm9IzGYhg70Z1BKg",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/gMZLQ5rcFn4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCmZ4QoOAygfMRhNi0GoE97iorHSQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/gMZLQ5rcFn4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBuJbIK4sjQC-xJunuTx2JwoYAT5g",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/gMZLQ5rcFn4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQmxxzqEZi9GjFl3RiqPjULPHb3Q",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/gMZLQ5rcFn4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEraUjyriv25hWCa5CUJmE8_ncXw",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
     {
       "id": "zFmhNn_ETmo",
       "title": "Raat Kali Ek Khwab",
@@ -97,90 +125,6 @@
         },
         {
           "url": "https://i.ytimg.com/vi/3AlFskuMk0g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2eI6gFef6s_6jxfed9v1dGMviNA",
-          "height": 188,
-          "width": 336
-        }
-      ]
-    },
-    {
-      "id": "siScPQgEJho",
-      "title": "Das Haasil Sau Baaki",
-      "channel": "Raghav Chaitanya",
-      "channel_id": "UC8JB-8J7XUfYeIJKvEA1DkA",
-      "thumbnails": [
-        {
-          "url": "https://i.ytimg.com/vi/siScPQgEJho/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDuFgArypEHixG7xyP0Kva2ZcMm2g",
-          "height": 94,
-          "width": 168
-        },
-        {
-          "url": "https://i.ytimg.com/vi/siScPQgEJho/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCEqAYqqtBCgG6FLkfd1Z5doX6FNQ",
-          "height": 110,
-          "width": 196
-        },
-        {
-          "url": "https://i.ytimg.com/vi/siScPQgEJho/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpWLuOMb8xai6t6HzzNfAWkqI7gA",
-          "height": 138,
-          "width": 246
-        },
-        {
-          "url": "https://i.ytimg.com/vi/siScPQgEJho/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7-Adk685thRMxcp78hrF5VdcBHw",
-          "height": 188,
-          "width": 336
-        }
-      ]
-    },
-    {
-      "id": "ugMHTco-CK4",
-      "title": "Hote Tak - Reprise",
-      "channel": "Raghav Chaitanya",
-      "channel_id": "UC8JB-8J7XUfYeIJKvEA1DkA",
-      "thumbnails": [
-        {
-          "url": "https://i.ytimg.com/vi/ugMHTco-CK4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB-vnAfoFlXXsouIwuY4dOntldbMw",
-          "height": 94,
-          "width": 168
-        },
-        {
-          "url": "https://i.ytimg.com/vi/ugMHTco-CK4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC6WlbYY1We7q__C9MGuE5iS7gEyw",
-          "height": 110,
-          "width": 196
-        },
-        {
-          "url": "https://i.ytimg.com/vi/ugMHTco-CK4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALMVKEoxtDZLXU9ze51Yu7X8tqDg",
-          "height": 138,
-          "width": 246
-        },
-        {
-          "url": "https://i.ytimg.com/vi/ugMHTco-CK4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-apPK5bA9CPoqaPr9kDWB6f9KDw",
-          "height": 188,
-          "width": 336
-        }
-      ]
-    },
-    {
-      "id": "030ZfLle_iI",
-      "title": "Yaad - Encore",
-      "channel": "B Praak",
-      "channel_id": "UCXjFirfrQa_02dBnHshjbzA",
-      "thumbnails": [
-        {
-          "url": "https://i.ytimg.com/vi/030ZfLle_iI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLANeGdTGcIxx2f2FW5jaPyEMOIUzw",
-          "height": 94,
-          "width": 168
-        },
-        {
-          "url": "https://i.ytimg.com/vi/030ZfLle_iI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA85QP5YEyzxuXz9xt1c0Gm5metqg",
-          "height": 110,
-          "width": 196
-        },
-        {
-          "url": "https://i.ytimg.com/vi/030ZfLle_iI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBu_2YBhtZK6MN4n1d9_UG8uUaQhg",
-          "height": 138,
-          "width": 246
-        },
-        {
-          "url": "https://i.ytimg.com/vi/030ZfLle_iI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2ksiE24bx1tfZ6Nld7oecGoiJKg",
           "height": 188,
           "width": 336
         }

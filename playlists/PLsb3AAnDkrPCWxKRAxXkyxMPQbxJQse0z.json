@@ -35,9 +35,9 @@
       "resolution": "336x188"
     }
   ],
-  "modified_date": "20251017",
+  "modified_date": "20251018",
   "view_count": 2499,
-  "playlist_count": 595,
+  "playlist_count": 598,
   "channel": "MusicOpen",
   "channel_id": "UClgZsSW98NXJreV2uWGzl-w",
   "uploader_id": "@MusicOpen",
@@ -16432,7 +16432,7 @@
     },
     {
       "id": "WVq1siHnPxI",
-      "title": "Kufar I Official Video | Diljit Dosanjh I Manushi Chhillar | Aura I Raj Ranjodh I Mix Singh",
+      "title": "Kufar I Official Video | Diljit Dosanjh I Manushi Chhillar | Aura I Raj Ranjodh I MixSingh",
       "channel": "Diljit Dosanjh",
       "channel_id": "UCZRdNleCgW-BGUJf-bbjzQg",
       "thumbnails": [
@@ -16621,6 +16621,90 @@
         },
         {
           "url": "https://i.ytimg.com/vi/P3Lq_iFeYF0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0RBjuuNRs4AVJx2_Rx1Tx-cLqLA",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "Zm8afVDu1Nc",
+      "title": "Tottay Chaar",
+      "channel": "Sohail Shahzad",
+      "channel_id": "UCFt_y_GogMyatG6rY5LDXDw",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Zm8afVDu1Nc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCkL4FQ_OlayoI2ke9J21UIW8Lc-g",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Zm8afVDu1Nc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB3ECdDn6-rxx0uN2ZD8Ro0I3yz6Q",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Zm8afVDu1Nc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA56XoybpNGHEwoxpfgjzgvP7Awmw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Zm8afVDu1Nc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-AnaHnsGtx33uhso0C7lO1VLNNA",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "BlcaF4EvKTo",
+      "title": "Vetri Maaran\u2019s Arasan-Official Promo Video (Tamil) | Silambarasan TR | Anirudh | Kalaippuli S Thanu",
+      "channel": "Anirudh Ravichander",
+      "channel_id": "UC1mupr-2YbkxQVmcO3ve6SA",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/BlcaF4EvKTo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBXqRK3hVQOy32igXrvO90DsyvNXw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BlcaF4EvKTo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBaCGID5MYs9D_vcHyVW5MkeAWicw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BlcaF4EvKTo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZlhaXi-MDEGplgCPfdzBUlpqaLA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BlcaF4EvKTo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCccTkk0LQKkYgjJk17O2lu6ZjiXg",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "MWstEm-SIZU",
+      "title": "Jaanu Na",
+      "channel": "Release - Topic",
+      "channel_id": "UCK1JaNj_PUDCSeVAv71v0Pg",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/MWstEm-SIZU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBCCsoWuEU8tQW71fC3bMW8hdhY4g",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MWstEm-SIZU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBpz91TsPiSKOg8A_kWpId9dtiOOg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MWstEm-SIZU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa3kIjUhsMtRD7B2I2D4NE-nuvZg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MWstEm-SIZU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAF-m2fBtNV3uX2qRyzy0XCCsWGKw",
           "height": 188,
           "width": 336
         }

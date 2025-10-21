@@ -35,9 +35,9 @@
       "resolution": "336x188"
     }
   ],
-  "modified_date": "20251020",
+  "modified_date": "20251021",
   "view_count": 2502,
-  "playlist_count": 604,
+  "playlist_count": 606,
   "channel": "MusicOpen",
   "channel_id": "UClgZsSW98NXJreV2uWGzl-w",
   "uploader_id": "@MusicOpen",
@@ -9909,8 +9909,8 @@
     {
       "id": "cgm10EKpF2A",
       "title": "KOI FARIYAAD",
-      "channel": "Jagjit Singh",
-      "channel_id": "UCjvmpn-6mAfDZX2JN8dvlOA",
+      "channel": "Jagjit Singh - Topic",
+      "channel_id": "UCh1u7At1I9kU2BDncDcYIXQ",
       "thumbnails": [
         {
           "url": "https://i.ytimg.com/vi/cgm10EKpF2A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAeN7JW8QxgDyxtAbfLzk8mdQqw1Q",
@@ -16873,6 +16873,62 @@
         },
         {
           "url": "https://i.ytimg.com/vi/ctJmboUzD9o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSfwbvzxCg8QItuFtMYK2f493EjA",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "CGhGAVH2GqY",
+      "title": "Diljit Dosanjh I Sanya Malhotra I Charmer | Raj Ranjodh | Avvy Sra ( Official Video )",
+      "channel": "Diljit Dosanjh",
+      "channel_id": "UCZRdNleCgW-BGUJf-bbjzQg",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/CGhGAVH2GqY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAwtZ1arscdLrtvXPCIEDGRTtD98Q",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CGhGAVH2GqY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA_kNEEdCtGi5qfB3ck0FhnMhdYDw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CGhGAVH2GqY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAv7oQivMVhnn6sDCHglAglq9iH2w",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CGhGAVH2GqY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARbpRc3_tylJF3h-4aN9cy82VZXg",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "c-FKlE3_kHo",
+      "title": "Guru Randhawa - QATAL - (Official Video)",
+      "channel": "Guru Randhawa",
+      "channel_id": "UC8MyBFjXbTezvZgMTEBFwgA",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/c-FKlE3_kHo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD0wkmuQwZnihC71HtIpkwtgmM3RQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/c-FKlE3_kHo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAMRoVYgHB21PLvbZlBxqsJNxAqGA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/c-FKlE3_kHo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiXNW8t3UB7IgwZEMhLjTl_goLvQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/c-FKlE3_kHo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlUGEGn9reIyEZQCPmGmCSosY6mg",
           "height": 188,
           "width": 336
         }

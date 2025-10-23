@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout main branch
+      - name: Checkout branch
         uses: actions/checkout@v4
         with:
           ref: ${{ inputs.ref }}
@@ -33,9 +33,12 @@ jobs:
       - name: Compress playlist files (gzip)
         run: |
           gzip playlists/* | true
+          git add playlists
+          git commit -m "Build: compressed playlist files"
+
       - name: Squash all commits into one
         run: |
-          git reset $(git commit-tree HEAD^{tree} -m "Build: squashed update from main")
+          git reset $(git commit-tree HEAD^{tree} -m "Build: squashed update from site")
 
       - name: Push to dist branch (force)
         run: |

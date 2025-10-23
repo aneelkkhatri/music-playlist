@@ -35,9 +35,9 @@
       "resolution": "336x188"
     }
   ],
-  "modified_date": "20251017",
+  "modified_date": "20251023",
   "view_count": 753,
-  "playlist_count": 614,
+  "playlist_count": 612,
   "channel": "MusicOpen",
   "channel_id": "UClgZsSW98NXJreV2uWGzl-w",
   "uploader_id": "@MusicOpen",
@@ -271,34 +271,6 @@
       ]
     },
     {
-      "id": "Wqu4MRQOgyo",
-      "title": "Dhun (Movie: Saiyaara)",
-      "channel": "Arijit Singh",
-      "channel_id": "UCtFOW7jJXChfFNoucRFqRmw",
-      "thumbnails": [
-        {
-          "url": "https://i.ytimg.com/vi/Wqu4MRQOgyo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBi4osLEbMaO_XLtoswVJpvpf3aiw",
-          "height": 94,
-          "width": 168
-        },
-        {
-          "url": "https://i.ytimg.com/vi/Wqu4MRQOgyo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCwQIVC0Bs4B-Q_YZL0Gan4wdspkg",
-          "height": 110,
-          "width": 196
-        },
-        {
-          "url": "https://i.ytimg.com/vi/Wqu4MRQOgyo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLAyiDHgKBoMluS3xSqSwuW1rvDQ",
-          "height": 138,
-          "width": 246
-        },
-        {
-          "url": "https://i.ytimg.com/vi/Wqu4MRQOgyo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDK42UncLJq41S_sxPOzKjqnSH9Ig",
-          "height": 188,
-          "width": 336
-        }
-      ]
-    },
-    {
       "id": "N7jDUBRVQVA",
       "title": "Tum Ho Toh (Movie: Saiyaara)",
       "channel": "Vishal Mishra",
@@ -349,34 +321,6 @@
         },
         {
           "url": "https://i.ytimg.com/vi/ge4M2dVBgTw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0q9FxigwNWpp_4d1rz6ysB_9lEg",
-          "height": 188,
-          "width": 336
-        }
-      ]
-    },
-    {
-      "id": "3OTBXuEhIf8",
-      "title": "Tu Bewafa",
-      "channel": "Naseebo Lal Official",
-      "channel_id": "UCN-RLp6P8UF3I8M2n4ChiTA",
-      "thumbnails": [
-        {
-          "url": "https://i.ytimg.com/vi/3OTBXuEhIf8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC3Q2ZcATlwxyxjPmkYlZtr9Mi35g",
-          "height": 94,
-          "width": 168
-        },
-        {
-          "url": "https://i.ytimg.com/vi/3OTBXuEhIf8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBoGqukbusD7iedtID6-vbyKlax3Q",
-          "height": 110,
-          "width": 196
-        },
-        {
-          "url": "https://i.ytimg.com/vi/3OTBXuEhIf8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBScyX39ZdniTQD39u7dL6VpDe4Xw",
-          "height": 138,
-          "width": 246
-        },
-        {
-          "url": "https://i.ytimg.com/vi/3OTBXuEhIf8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlxPxM4RjdCfGuTr0T2VhUMc4ijQ",
           "height": 188,
           "width": 336
         }

@@ -1,9 +1,11 @@
 name: Build site into dist
 
 on:
-  push:
-    branches:
-      - site
+  workflow_call:
+    inputs:
+      ref:
+        required: true
+        type: string
 
 jobs:
   build-site-into-dist:
@@ -13,7 +15,7 @@ jobs:
       - name: Checkout main branch
         uses: actions/checkout@v4
         with:
-          ref: site
+          ref: ${{ inputs.ref }}
           fetch-depth: 0  # Fetch all history for all branches
 
       - name: Configure Git

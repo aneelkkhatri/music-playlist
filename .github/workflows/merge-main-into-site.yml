@@ -32,3 +32,9 @@ jobs:
           ls -alh
           git merge origin/main --no-edit --allow-unrelated-histories || true
           git push origin site
+
+  build-dist:
+    needs: merge-main-into-site
+    uses: ./.github/workflows/build-dist.yml
+    with:
+      ref: site

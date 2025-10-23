@@ -33,7 +33,7 @@ function renderPlaylists(playlists) {
       // Thumbnails: show all in 2x2 grid
       const thumbsWrapper = document.createElement('div');
       thumbsWrapper.onclick = () => {
-          window.location.href = `index.html?file=playlists/${pl.id}.json`;
+          window.location.href = `index.html?file=playlists/${pl.id}.json.gz`;
       };
       thumbsWrapper.className = 'thumbs-grid';
       if (pl.thumbnails && pl.thumbnails.length) {

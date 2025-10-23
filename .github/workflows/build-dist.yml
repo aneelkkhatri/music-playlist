@@ -30,6 +30,9 @@ jobs:
           # Create new dist branch from site
           git checkout -b dist
 
+      - name: Compress playlist files (gzip)
+        run: |
+          gzip playlists/* | true
       - name: Squash all commits into one
         run: |
           git reset $(git commit-tree HEAD^{tree} -m "Build: squashed update from main")

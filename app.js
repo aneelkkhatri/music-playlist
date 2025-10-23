@@ -156,8 +156,27 @@ function handleScroll() {
   }
 }
 
-fetch(playlistFile)
-  .then(response => response.json())
+function isGzippedFile(filename) {
+  return filename && filename.toLowerCase().endsWith('.gz');
+}
+
+async function decompressGzip(response) {
+  const stream = response.body.pipeThrough(new DecompressionStream('gzip'));
+  return new Response(stream);
+}
+
+async function loadPlaylistFile(filename) {
+  return fetch(filename).then(response => {
+    if (isGzippedFile(filename)) {
+      return decompressGzip(response);
+    }
+    return response;
+  }).then(response => {
+    return response.json();
+  });
+}
+
+loadPlaylistFile(playlistFile)
   .then(data => {
     allVideos = data.entries;
     filteredVideos = allVideos;
@@ -171,4 +190,8 @@ fetch(playlistFile)
         resetAndRender();
       });
     }
+  })
+  .catch(error => {
+    console.error('Failed to load playlist:', error);
+    // You could add user-friendly error handling here
   });

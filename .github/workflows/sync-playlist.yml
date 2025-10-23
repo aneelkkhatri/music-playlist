@@ -65,3 +65,9 @@ jobs:
           git add "playlists.json"
           git commit -m "Update playlists from YouTube" || echo 'No changes to commit'
           git push origin site
+
+  build-dist:
+    needs: sync-playlist
+    uses: ./.github/workflows/build-dist.yml
+    with:
+      ref: site

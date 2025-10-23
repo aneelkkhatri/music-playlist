@@ -1,0 +1,39 @@
+name: Build site into dist
+
+on:
+  workflow_call:
+    inputs:
+      ref:
+        required: true
+        type: string
+
+jobs:
+  build-site-into-dist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.ref }}
+          fetch-depth: 0  # Fetch all history for all branches
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Create or reset dist branch
+        run: |
+          # Delete existing local dist if any
+          git branch -D dist || true
+          # Create new dist branch from site
+          git checkout -b dist
+
+      - name: Squash all commits into one
+        run: |
+          git reset $(git commit-tree HEAD^{tree} -m "Build: squashed update from main")
+
+      - name: Push to dist branch (force)
+        run: |
+          git push origin dist --force

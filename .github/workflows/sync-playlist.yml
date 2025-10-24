@@ -44,6 +44,7 @@ jobs:
             PLsb3AAnDkrPCWxKRAxXkyxMPQbxJQse0z
             PLsb3AAnDkrPBr9H40ItRJ8otKDVTNEYf9
             PLsb3AAnDkrPC2AyfbNidb0PULvgvFn9l4
+            PLsb3AAnDkrPAhCHhP__pGjlAuWXpd9x_7
         run: |
           ls -alh
           echo "Syncing playlists:"

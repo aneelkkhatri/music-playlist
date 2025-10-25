@@ -196,6 +196,34 @@
     "channel_id": "UClgZsSW98NXJreV2uWGzl-w"
   },
   {
+    "id": "PLsb3AAnDkrPAhCHhP__pGjlAuWXpd9x_7",
+    "title": "Mega Playlist",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/FkV16_M-b-I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLChYfJa6AXzzbL0qlzGImZ_Q_h42A",
+        "height": 94,
+        "width": 168
+      },
+      {
+        "url": "https://i.ytimg.com/vi/glucWS42wJY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDN6TdIP6ol7pEzRCmwMgCPYeac6A",
+        "height": 94,
+        "width": 168
+      },
+      {
+        "url": "https://i.ytimg.com/vi/LwEIx6jQmIQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDwYEv32qg2A-J6Z31ZNxjsckR61w",
+        "height": 94,
+        "width": 168
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pMnCDFzDJZ0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBm2DZi5BPtyHS--Dk4inkNi483_w",
+        "height": 94,
+        "width": 168
+      }
+    ],
+    "channel": "MusicOpen",
+    "channel_id": "UClgZsSW98NXJreV2uWGzl-w"
+  },
+  {
     "id": "PLsb3AAnDkrPC2AyfbNidb0PULvgvFn9l4",
     "title": "2000s",
     "thumbnails": [

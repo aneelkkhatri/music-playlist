@@ -7,37 +7,37 @@
   "tags": [],
   "thumbnails": [
     {
-      "url": "https://i.ytimg.com/vi/fWBVVVgJYuo/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDzWac9PBFQNuW2kmjfavbrdLbdpA",
+      "url": "https://i.ytimg.com/vi/oW9XAbYgGhs/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAnAaiHWQAXQ3iTiiis1geCAYViTA",
       "height": 94,
       "width": 168,
       "id": "0",
       "resolution": "168x94"
     },
     {
-      "url": "https://i.ytimg.com/vi/fWBVVVgJYuo/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCeRjoKLI8au5Y_Oo4qQaHzcAyBBw",
+      "url": "https://i.ytimg.com/vi/oW9XAbYgGhs/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAUa9RUOWxL19qNmpLWJm5LNy1dFA",
       "height": 110,
       "width": 196,
       "id": "1",
       "resolution": "196x110"
     },
     {
-      "url": "https://i.ytimg.com/vi/fWBVVVgJYuo/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC1IOpq-c1gM1u4C5rAgCzDfLCLFA",
+      "url": "https://i.ytimg.com/vi/oW9XAbYgGhs/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC2q28SPtn_pyI7BrR5XHELvyQw9A",
       "height": 138,
       "width": 246,
       "id": "2",
       "resolution": "246x138"
     },
     {
-      "url": "https://i.ytimg.com/vi/fWBVVVgJYuo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAOmKysM46L58hispU4SD9QcPVc4g",
+      "url": "https://i.ytimg.com/vi/oW9XAbYgGhs/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAIu6aqa__tTI9PEujbusm1VfAg4A",
       "height": 188,
       "width": 336,
       "id": "3",
       "resolution": "336x188"
     }
   ],
-  "modified_date": "20251024",
-  "view_count": 780,
-  "playlist_count": 611,
+  "modified_date": "20251026",
+  "view_count": 781,
+  "playlist_count": 612,
   "channel": "MusicOpen",
   "channel_id": "UClgZsSW98NXJreV2uWGzl-w",
   "uploader_id": "@MusicOpen",
@@ -46,6 +46,34 @@
   "uploader_url": "https://www.youtube.com/@MusicOpen",
   "_type": "playlist",
   "entries": [
+    {
+      "id": "oW9XAbYgGhs",
+      "title": "Sirra",
+      "channel": "Guru Randhawa",
+      "channel_id": "UC8MyBFjXbTezvZgMTEBFwgA",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/oW9XAbYgGhs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCj4oYNoxXcwJ3GipRs-KqYoV6Fuw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/oW9XAbYgGhs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC5sR7-f_2us3-7qWa602U1xFx2cg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/oW9XAbYgGhs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCsmtQN5WxB9Nmt1lkOK1cFRRh-g",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/oW9XAbYgGhs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOnMP15woxr9JFUu3m3T2wPQrWmg",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
     {
       "id": "fWBVVVgJYuo",
       "title": "Shaam Jho Heu Pahar Nawun Asan Jay Kayu",

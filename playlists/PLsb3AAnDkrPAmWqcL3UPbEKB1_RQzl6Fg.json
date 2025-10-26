@@ -35,9 +35,9 @@
       "resolution": "336x188"
     }
   ],
-  "modified_date": "20250917",
+  "modified_date": "20251026",
   "view_count": 40,
-  "playlist_count": 36,
+  "playlist_count": 38,
   "channel": "MusicOpen",
   "channel_id": "UClgZsSW98NXJreV2uWGzl-w",
   "uploader_id": "@MusicOpen",
@@ -1049,6 +1049,62 @@
         },
         {
           "url": "https://i.ytimg.com/vi/p8KmNiOXIKM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_tt5xoW2LnDlDEqOzwd1AB6FOAA",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "uaQPAFg8Em8",
+      "title": "Saavar Re Mana",
+      "channel": "Swapnil Bandodkar - Topic",
+      "channel_id": "UCf70CJrNhCm7PjEzIPcMppw",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/uaQPAFg8Em8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA1AqfD-oQFLdl_Lfzb_B8PZXAdrg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/uaQPAFg8Em8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAypSr2t_NyEpNqMLhwOzakJDpYUg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/uaQPAFg8Em8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQix0FvLBlgUc60W88F8VBT88oIA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/uaQPAFg8Em8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9tdswlpjPDupirfbiJxcSktEZRQ",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "l-2LyXmBZgc",
+      "title": "Aa Samiya",
+      "channel": "Hansraj Raghuwanshi",
+      "channel_id": "UCigV1clokmoz4LZrGL9fRNw",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/l-2LyXmBZgc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCdCm3xQPMZrOcnEMAKAjkK2-C8wQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/l-2LyXmBZgc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDdER6fe5Wz_YiMinfL1rmd6PHXhQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/l-2LyXmBZgc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAMO_r7Di8b3TawjyiYYGj4hWf7w",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/l-2LyXmBZgc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzV-4Kqdbn-Wst2jfPOI0zEBi42g",
           "height": 188,
           "width": 336
         }

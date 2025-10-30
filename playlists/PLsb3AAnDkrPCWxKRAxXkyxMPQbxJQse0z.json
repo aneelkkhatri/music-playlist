@@ -35,9 +35,9 @@
       "resolution": "336x188"
     }
   ],
-  "modified_date": "20251029",
+  "modified_date": "20251030",
   "view_count": 2526,
-  "playlist_count": 596,
+  "playlist_count": 598,
   "channel": "MusicOpen",
   "channel_id": "UClgZsSW98NXJreV2uWGzl-w",
   "uploader_id": "@MusicOpen",
@@ -12176,7 +12176,7 @@
     },
     {
       "id": "tViDzZBhJM8",
-      "title": "Aap Ki Yaad",
+      "title": "Aap Ki Yaad, 2.0",
       "channel": "Ahmed Jahanzeb",
       "channel_id": "UC9ZmVbTrOdN8CNNUFQWrhAQ",
       "thumbnails": [
@@ -14137,8 +14137,8 @@
     {
       "id": "R0tM53Jf4w0",
       "title": "MOON (Channa Me Teri Chandaniyan) : Kushagra | Showkidd | Yassh Kadamm | UR Debut | Hindi Dance Song",
-      "channel": "UR DEBUT",
-      "channel_id": "UCG3VCErvT_bRm_q1LQXUTBg",
+      "channel": "UR DEBUT and Kushagra Thakur",
+      "channel_id": null,
       "thumbnails": [
         {
           "url": "https://i.ytimg.com/vi/R0tM53Jf4w0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBR8eHaE-LziCZUVMNq1I0JY8-CdA",
@@ -16572,7 +16572,7 @@
     },
     {
       "id": "D-XilN9Fnqo",
-      "title": "Naach Meri Naagin (Official Video): Neelkamal Singh | Paradox,Soundarya S,Tanishk,Simar | Bhushan K",
+      "title": "Naach Meri Naagin (Official Video): Neelkamal Singh | Soundarya S,Tanishk,Paradox,Simar | Bhushan K",
       "channel": "T-Series",
       "channel_id": "UCq-Fj5jknLsUf-MWSy4_brA",
       "thumbnails": [
@@ -16649,6 +16649,62 @@
         },
         {
           "url": "https://i.ytimg.com/vi/98zHKN-xSHk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhPIFgoZTAP&rs=AOn4CLBfXHQVtcMwhJDKIxrVOpZDBXaOkA",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "-v3a9CffY28",
+      "title": "Jhoom Sharaabi (Song)\u2013 De De Pyaar De 2 | Ajay Devgn, Rakul Preet Singh | Yo Yo Honey Singh | 14 Nov",
+      "channel": "T-Series",
+      "channel_id": "UCq-Fj5jknLsUf-MWSy4_brA",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/-v3a9CffY28/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDohEl5-SXIvxJEjRHzK-ttSgem5A",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-v3a9CffY28/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDIElYsg5I5hWJK2tt9PQ31_nXFIg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-v3a9CffY28/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZA-j016XppAgfDmOqnDBUm_GXPA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-v3a9CffY28/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0J-3NwNh02H8JHbYbpb32WLkR0g",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "JZCUL_5U8l4",
+      "title": "Singari Video Song | Dude | Pradeep Ranganathan, Mamitha Baiju | @SaiAbhyankkar  | Keerthiswaran",
+      "channel": "Think Music India",
+      "channel_id": "UCLbdVvreihwZRL6kwuEUYsA",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/JZCUL_5U8l4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDGAI7gTjt--Svsasov42Bx_w2qmA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JZCUL_5U8l4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBhzMVhd8f-rt_q062WZVCtR6o4bA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JZCUL_5U8l4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAXa-oTxyjkx-MrBwp6w18YZo1ow",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JZCUL_5U8l4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnKnzndOceFEM9XltFEFjxr7hltQ",
           "height": 188,
           "width": 336
         }

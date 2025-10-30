@@ -7,36 +7,36 @@
   "tags": [],
   "thumbnails": [
     {
-      "url": "https://i.ytimg.com/vi/gp_wkjUSZMg/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDTxJVoDpQOqT_TaTghtUHYLj0O2A",
+      "url": "https://i.ytimg.com/vi/RSVLgzDqQ5Y/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLB5EsfWiWSkDmFCc7jNDAWsd_Oxfw",
       "height": 94,
       "width": 168,
       "id": "0",
       "resolution": "168x94"
     },
     {
-      "url": "https://i.ytimg.com/vi/gp_wkjUSZMg/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBs8vGWHKtFqKMk1pLnk4fZm_PU8w",
+      "url": "https://i.ytimg.com/vi/RSVLgzDqQ5Y/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDvlk23Yi3BAeSc0SaNTMdaJAL4vg",
       "height": 110,
       "width": 196,
       "id": "1",
       "resolution": "196x110"
     },
     {
-      "url": "https://i.ytimg.com/vi/gp_wkjUSZMg/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC3C2Tktci3Fg7heob8xjbqJ06YGA",
+      "url": "https://i.ytimg.com/vi/RSVLgzDqQ5Y/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAxzujw1On_IQp6PY0un7uGtTGUQg",
       "height": 138,
       "width": 246,
       "id": "2",
       "resolution": "246x138"
     },
     {
-      "url": "https://i.ytimg.com/vi/gp_wkjUSZMg/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLANoP8JIljj4mtObcTFTIU1ToXUmw",
+      "url": "https://i.ytimg.com/vi/RSVLgzDqQ5Y/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA9gtU3MFdm9Vg0bIdg1FgIpDBL0g",
       "height": 188,
       "width": 336,
       "id": "3",
       "resolution": "336x188"
     }
   ],
-  "modified_date": "20251027",
-  "view_count": 789,
+  "modified_date": "20251030",
+  "view_count": 791,
   "playlist_count": 623,
   "channel": "MusicOpen",
   "channel_id": "UClgZsSW98NXJreV2uWGzl-w",
@@ -46,6 +46,62 @@
   "uploader_url": "https://www.youtube.com/@MusicOpen",
   "_type": "playlist",
   "entries": [
+    {
+      "id": "RSVLgzDqQ5Y",
+      "title": "Sensitive",
+      "channel": "KRSNA",
+      "channel_id": "UChDX4wagpTQS0aTm4eyhJaw",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/RSVLgzDqQ5Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAtT-U4Ka3qvct11OQXc8HciLQSYg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RSVLgzDqQ5Y/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDmgAl528zUxYdV4iCTsU-uVyyngA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RSVLgzDqQ5Y/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAse8DoQKs_avFD_S8RiLRbF6gn_Q",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RSVLgzDqQ5Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUZsggvSoT-s9mYWfpYVvn_jQ55w",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "eVgp5-8U6tE",
+      "title": "Rumka Rumka",
+      "channel": "Mannat Noor",
+      "channel_id": "UCE75Swdxn7L4iJXR2qBiq6w",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/eVgp5-8U6tE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDDAPnnYEfPDhaTZoBvh0RMB9tT-w",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/eVgp5-8U6tE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAhsvIuFJLpIt7pOW_mlkMJyeCgpQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/eVgp5-8U6tE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDg6SJXmEe8lFYtIlykSGvlg0x-0A",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/eVgp5-8U6tE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAawuyYpH_zpuGx03J2SrUKdUrkrA",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
     {
       "id": "gp_wkjUSZMg",
       "title": "Preetum Mut Pardes Padharo",
@@ -153,34 +209,6 @@
         },
         {
           "url": "https://i.ytimg.com/vi/YE8S25WAII8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnA2ZXakQhoi2jkhOLxvgUR-ghQw",
-          "height": 188,
-          "width": 336
-        }
-      ]
-    },
-    {
-      "id": "aTkGmJtJ3Ug",
-      "title": "Jodi Bolo (Original Motion Picture Soundtrack)",
-      "channel": "Vishal - Shekhar - Topic",
-      "channel_id": "UCWXJyrk1diAufFuTHCTfQ2A",
-      "thumbnails": [
-        {
-          "url": "https://i.ytimg.com/vi/aTkGmJtJ3Ug/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCgf1jdtgvG6lHcOYXh1TMgxde6EA",
-          "height": 94,
-          "width": 168
-        },
-        {
-          "url": "https://i.ytimg.com/vi/aTkGmJtJ3Ug/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCOjTGhWJES7DFQQCAgX5INny8cPw",
-          "height": 110,
-          "width": 196
-        },
-        {
-          "url": "https://i.ytimg.com/vi/aTkGmJtJ3Ug/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGVEy9gc90G1DnG6SR1YAc1_rvkg",
-          "height": 138,
-          "width": 246
-        },
-        {
-          "url": "https://i.ytimg.com/vi/aTkGmJtJ3Ug/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCr88lSe83vcP_IIKFYV-9PeUP_tw",
           "height": 188,
           "width": 336
         }
@@ -881,34 +909,6 @@
         },
         {
           "url": "https://i.ytimg.com/vi/XeoP_FkDEeo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCx6bC1RqWIr0ALsB2J__88tKtOmA",
-          "height": 188,
-          "width": 336
-        }
-      ]
-    },
-    {
-      "id": "bqUsUhz41jY",
-      "title": "Rude Boy",
-      "channel": "Rihanna",
-      "channel_id": "UCcgqSM4YEo5vVQpqwN-MaNw",
-      "thumbnails": [
-        {
-          "url": "https://i.ytimg.com/vi/bqUsUhz41jY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC1-7G5Fs2tB1pVrJhkrKlqgimjNw",
-          "height": 94,
-          "width": 168
-        },
-        {
-          "url": "https://i.ytimg.com/vi/bqUsUhz41jY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD2MemwzS9pHfnIwf-OksSshTYDCg",
-          "height": 110,
-          "width": 196
-        },
-        {
-          "url": "https://i.ytimg.com/vi/bqUsUhz41jY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6fMgQRY2P6228NHTYfx4I3m2aDw",
-          "height": 138,
-          "width": 246
-        },
-        {
-          "url": "https://i.ytimg.com/vi/bqUsUhz41jY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUPiBCpGeSTOe8Lu9ekekwX2EBRw",
           "height": 188,
           "width": 336
         }

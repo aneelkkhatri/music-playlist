@@ -35,9 +35,9 @@
       "resolution": "336x188"
     }
   ],
-  "modified_date": "20251030",
+  "modified_date": "20251031",
   "view_count": 2526,
-  "playlist_count": 598,
+  "playlist_count": 599,
   "channel": "MusicOpen",
   "channel_id": "UClgZsSW98NXJreV2uWGzl-w",
   "uploader_id": "@MusicOpen",
@@ -16705,6 +16705,34 @@
         },
         {
           "url": "https://i.ytimg.com/vi/JZCUL_5U8l4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnKnzndOceFEM9XltFEFjxr7hltQ",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "VIqYsmPckG4",
+      "title": "Bau Na Vichaar (Title Track)",
+      "channel": "Kirtidan Gadhvi Official",
+      "channel_id": "UCA-4TJH8zQJTragLB6EdVWg",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/VIqYsmPckG4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDtVxhLl-q5UqcoEc7yNnZjH0H3kg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VIqYsmPckG4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBrIBEFA-VPdUzg5DWXC4C4HaJbWA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VIqYsmPckG4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5drdhK_smsmL2jzy8yVJgl2u1HQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VIqYsmPckG4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2yPgOzkXLOCg53OXAshOtrV4IxA",
           "height": 188,
           "width": 336
         }

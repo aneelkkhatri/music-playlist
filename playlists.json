@@ -200,22 +200,22 @@
     "title": "Mega Playlist",
     "thumbnails": [
       {
+        "url": "https://i.ytimg.com/vi/Na8Mr8ZYQNs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA4GtmcwgdFv8YPSF8DEcAPSBRdGg",
+        "height": 94,
+        "width": 168
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TOGVoo27Kow/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAlrEB1LM7KslX5SNMWSRzZ-yyosw",
+        "height": 94,
+        "width": 168
+      },
+      {
         "url": "https://i.ytimg.com/vi/v07_uSoweCE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB0ntMPhIef-MVORWGyS1_pZPpLZQ",
         "height": 94,
         "width": 168
       },
       {
         "url": "https://i.ytimg.com/vi/cBQIT4beU_k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDdZDiY9Bk-L6ivGs19zOebrH4QuA",
-        "height": 94,
-        "width": 168
-      },
-      {
-        "url": "https://i.ytimg.com/vi/jvGn7WUBJmA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAHnXCOjXdsuj-3SMLq2OwHaXG9jA",
-        "height": 94,
-        "width": 168
-      },
-      {
-        "url": "https://i.ytimg.com/vi/AQzqkJAo7ZY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLANhyw1mVzk7Zmxpre4k4MqGmMhLw",
         "height": 94,
         "width": 168
       }

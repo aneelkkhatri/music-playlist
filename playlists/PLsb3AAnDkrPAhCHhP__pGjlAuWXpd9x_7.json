@@ -7,37 +7,37 @@
   "tags": [],
   "thumbnails": [
     {
-      "url": "https://i.ytimg.com/vi/v07_uSoweCE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCCV1yd7SH97OmebCrUqvmjrYgqTw",
+      "url": "https://i.ytimg.com/vi/Na8Mr8ZYQNs/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAyZ8wI738n5pr402TiEQeIKJZ4Og",
       "height": 94,
       "width": 168,
       "id": "0",
       "resolution": "168x94"
     },
     {
-      "url": "https://i.ytimg.com/vi/v07_uSoweCE/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLA8mNgX-dV5cxYd7KRuLcQGzHc4PA",
+      "url": "https://i.ytimg.com/vi/Na8Mr8ZYQNs/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAdOU5VPEJgaw1Qwp4hE-Wb1t9WbA",
       "height": 110,
       "width": 196,
       "id": "1",
       "resolution": "196x110"
     },
     {
-      "url": "https://i.ytimg.com/vi/v07_uSoweCE/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDeHFb_TxdZmjzvVw80zFdsYCdqYA",
+      "url": "https://i.ytimg.com/vi/Na8Mr8ZYQNs/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBS46Dg-KSozJ-SURmM82qI1xE1tQ",
       "height": 138,
       "width": 246,
       "id": "2",
       "resolution": "246x138"
     },
     {
-      "url": "https://i.ytimg.com/vi/v07_uSoweCE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA77cv-LSIGfpevE3c3EpodbwUYqA",
+      "url": "https://i.ytimg.com/vi/Na8Mr8ZYQNs/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCk8r4X81oqN14sGI32g-UKpLxp0Q",
       "height": 188,
       "width": 336,
       "id": "3",
       "resolution": "336x188"
     }
   ],
-  "modified_date": "20251026",
+  "modified_date": "20251101",
   "view_count": 4562,
-  "playlist_count": 3527,
+  "playlist_count": 3529,
   "channel": "MusicOpen",
   "channel_id": "UClgZsSW98NXJreV2uWGzl-w",
   "uploader_id": "@MusicOpen",
@@ -46,6 +46,62 @@
   "uploader_url": "https://www.youtube.com/@MusicOpen",
   "_type": "playlist",
   "entries": [
+    {
+      "id": "Na8Mr8ZYQNs",
+      "title": "Rooh",
+      "channel": "Adnan Dhool Official ",
+      "channel_id": "UC4b12JnNXOUpnrpHUK7p-gw",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Na8Mr8ZYQNs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA4GtmcwgdFv8YPSF8DEcAPSBRdGg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Na8Mr8ZYQNs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDK0PsBo6vNrcrhSZFqLbURNdX1_Q",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Na8Mr8ZYQNs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClT3LcXkSLVw25VPVZ_mTuhgaHGA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Na8Mr8ZYQNs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBguu3Q2lLZh8XshqfywLh_MNSi-Q",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
+    {
+      "id": "TOGVoo27Kow",
+      "title": "Nee Illama",
+      "channel": "HiphopTamizha",
+      "channel_id": "UC3Izrk2fUSIEwdcH0kNdzeQ",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/TOGVoo27Kow/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAlrEB1LM7KslX5SNMWSRzZ-yyosw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TOGVoo27Kow/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCIuO32aCodDUU5WcKJttFA1nFg5w",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TOGVoo27Kow/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQskUJxX8eI0btiiDWPp2sp3wGQQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TOGVoo27Kow/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3gcayExywvd4kNaCL2B24gGlCNQ",
+          "height": 188,
+          "width": 336
+        }
+      ]
+    },
     {
       "id": "v07_uSoweCE",
       "title": "Judge",
@@ -56777,8 +56833,8 @@
     {
       "id": "OwLghEquoLY",
       "title": "Laage Ura Dhura",
-      "channel": "Pritom Hasan - Topic",
-      "channel_id": "UCQ3yFjGgtFqsl1UBL8oG-ig",
+      "channel": "Pritom Hasan",
+      "channel_id": "UCHbYKM5gX8zQu4KlnhidraA",
       "thumbnails": [
         {
           "url": "https://i.ytimg.com/vi/OwLghEquoLY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB2P5bcEacSG15vfBm2Iyuci12nSQ",
@@ -77945,8 +78001,8 @@
     {
       "id": "2h0WZFhii4Q",
       "title": "Bekaar Dil",
-      "channel": "Vishal Mishra",
-      "channel_id": "UCx4xrSYSfLATFO9fmPZxeNQ",
+      "channel": "Vishal - Shekhar - Topic",
+      "channel_id": "UCWXJyrk1diAufFuTHCTfQ2A",
       "thumbnails": [
         {
           "url": "https://i.ytimg.com/vi/2h0WZFhii4Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCrZjD3_eJJD4Arry5AexIg2z12gA",
@@ -77973,8 +78029,8 @@
     {
       "id": "0L_GnO_4ors",
       "title": "Mitti",
-      "channel": "Vishal Dadlani - Topic",
-      "channel_id": "UCe223VU7Yb2pRFxMpHUdCvA",
+      "channel": "Vishal - Shekhar - Topic",
+      "channel_id": "UCWXJyrk1diAufFuTHCTfQ2A",
       "thumbnails": [
         {
           "url": "https://i.ytimg.com/vi/0L_GnO_4ors/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDO_MXWrcz2h-R0Sob2UbEJQuyt7w",
@@ -78001,8 +78057,8 @@
     {
       "id": "gJbUT_Fzl2k",
       "title": "Dil Banaane Waaleya",
-      "channel": "Arijit Singh",
-      "channel_id": "UCtFOW7jJXChfFNoucRFqRmw",
+      "channel": "Vishal - Shekhar - Topic",
+      "channel_id": "UCWXJyrk1diAufFuTHCTfQ2A",
       "thumbnails": [
         {
           "url": "https://i.ytimg.com/vi/gJbUT_Fzl2k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDZoo0Yfl1h_-AvuYAL8cn9GZHPLw",
@@ -78029,8 +78085,8 @@
     {
       "id": "i8VAQ8Cy5rs",
       "title": "Heer Aasmani",
-      "channel": "B Praak",
-      "channel_id": "UCXjFirfrQa_02dBnHshjbzA",
+      "channel": "Vishal - Shekhar - Topic",
+      "channel_id": "UCWXJyrk1diAufFuTHCTfQ2A",
       "thumbnails": [
         {
           "url": "https://i.ytimg.com/vi/i8VAQ8Cy5rs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCFurg6lGGACcylrWQi-Cztr0C-Ag",
@@ -78085,8 +78141,8 @@
     {
       "id": "J5eEIGw8zNM",
       "title": "Sher Khul Gaye",
-      "channel": "Benny Dayal",
-      "channel_id": "UC9g9IPdlT4BSdZA9WQ6O3-A",
+      "channel": "Vishal - Shekhar - Topic",
+      "channel_id": "UCWXJyrk1diAufFuTHCTfQ2A",
       "thumbnails": [
         {
           "url": "https://i.ytimg.com/vi/J5eEIGw8zNM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCCNmpWRhpG7RKy4wgvrOHxPBO-jg",

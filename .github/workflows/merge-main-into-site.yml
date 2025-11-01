@@ -1,0 +1,40 @@
+name: Merge main into site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  merge-main-into-site:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0  # Fetch all history for all branches
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Fetch all branches
+        run: git fetch origin site:site
+
+      - name: Checkout site branch
+        run: git checkout site
+
+      - name: Merge main into site
+        run: |
+          ls -alh
+          git merge origin/main --no-edit --allow-unrelated-histories || true
+          git push origin site
+
+  build-dist:
+    needs: merge-main-into-site
+    uses: ./.github/workflows/build-dist.yml
+    with:
+      ref: site
